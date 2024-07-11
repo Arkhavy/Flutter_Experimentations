@@ -13,10 +13,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter Starting Point.md",
+                "file": "Phind Questions/What is needed to learn Flutter.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1f12c42f9d50b15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phind Questions/Difference between Stateless and Stateful in Flutter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "668ae351ca990af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "863f769fb975ecf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bada03e27ed67ca2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter Starting Point.md",
+                "file": "Personal notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter Starting Point.md",
+                "file": "Personal notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter Starting Point.md"
+                "file": "Personal notes.md"
               }
             }
           }
@@ -146,10 +187,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a977610fb95c8426",
+  "active": "668ae351ca990af3",
   "lastOpenFiles": [
-    "Phind Questions/What is needed to learn Flutter.md",
+    "Phind Questions/Difference between Stateless and Stateful in Flutter.md",
+    "Personal notes.md",
+    "Phind Questions Summary.md",
     "Flutter Starting Point.md",
+    "Phind Questions/What is needed to learn Flutter.md",
     "Phind Questions"
   ]
 }
