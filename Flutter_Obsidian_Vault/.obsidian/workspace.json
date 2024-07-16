@@ -6,52 +6,42 @@
       {
         "id": "3340249b94caa57b",
         "type": "tabs",
+        "dimension": 42.99007444168734,
         "children": [
           {
-            "id": "a977610fb95c8426",
+            "id": "a053aa71b82f19ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phind Questions/What is needed to learn Flutter.md",
+                "file": "Flutter Starting Point.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f12c42f9d50b15c",
+            "id": "11ae397d661dc8b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phind Questions/Difference between Stateless and Stateful in Flutter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "668ae351ca990af3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal notes.md",
+                "file": "Documentation/Scaffold.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "863f769fb975ecf0",
+        "id": "814d209659698517",
         "type": "tabs",
+        "dimension": 57.00992555831266,
         "children": [
           {
-            "id": "bada03e27ed67ca2",
+            "id": "53d796ddd82faf12",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -110,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "0ce9be7b67e3c98b",
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal notes.md",
+                "file": "Documentation/Scaffold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal notes.md",
+                "file": "Documentation/Scaffold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal notes.md"
+                "file": "Documentation/Scaffold.md"
               }
             }
           }
@@ -187,12 +177,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "668ae351ca990af3",
+  "active": "11ae397d661dc8b4",
   "lastOpenFiles": [
-    "Phind Questions/Difference between Stateless and Stateful in Flutter.md",
-    "Personal notes.md",
-    "Phind Questions Summary.md",
     "Flutter Starting Point.md",
+    "Documentation/Scaffold.md",
+    "Personal notes.md",
+    "Sans titre",
+    "Documentation",
+    "Phind Questions/Difference between Stateless and Stateful in Flutter.md",
+    "Phind Questions Summary.md",
     "Phind Questions/What is needed to learn Flutter.md",
     "Phind Questions"
   ]

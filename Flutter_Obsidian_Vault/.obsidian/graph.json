@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 45050
       }
+    },
+    {
+      "query": "tag:#Documentation  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.7132754626224425,
   "close": false
 }
